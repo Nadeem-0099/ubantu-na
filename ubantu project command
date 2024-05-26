@@ -1,0 +1,14 @@
+UBANTU PROJECT Command-
+
+sudo apt update
+sudo apt install nginx
+service nginx status
+                      (after erro on web )
+sudo ufw status
+sudo ufw app list
+sudo ufw allow 'Nginx full'
+                       (After working fine)
+
+ls /varwww/html/
+ls /varwww/html/index.nginx-debian.ht
+
